@@ -1,0 +1,11 @@
+html{
+    background: url('./src/image/fundo-amnase.jpeg');
+}
+.titulo-anamnese{
+    padding: 20px;
+    padding-bottom: 10px;
+}
+.paragrafo-anamnese{
+    text-align: justify;
+    padding: 5px 15px 5px 15px;
+}

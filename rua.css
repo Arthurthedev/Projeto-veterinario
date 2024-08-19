@@ -1,0 +1,12 @@
+html{
+    background: url('./src/image/fundo-rua.jpeg');
+}
+.titulo-rua{
+
+    padding-bottom: 10px;
+    padding-top: 28px;
+}
+.paragrafo-rua{
+    text-align: justify;
+    padding: 10px 15px 10px 15px;
+}

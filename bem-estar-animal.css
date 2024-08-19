@@ -1,0 +1,19 @@
+html{
+    background: url('./src/image/fundo-bem-estar.jpeg');
+}
+.titulo-bem-estar{
+    
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.paragrafo-bem-estar{
+    text-align: justify;
+    padding: 5px 15px 5px 15px;
+}
+li{
+    padding-bottom: 5px;
+}
+.ultimo-item{
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
