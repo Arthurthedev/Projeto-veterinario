@@ -1,0 +1,26 @@
+html{
+    background-image: url('./src/image/fundo-canino.jpeg');
+}
+ul{
+    display: block;
+    width: 230px;
+    padding-left: 10px;
+    padding-bottom: 3px;
+    text-align: justify;
+}
+li{
+    display: block;
+    width: 230px;
+    padding-left: 10px;
+    padding-bottom: 3px;
+    text-align: justify;
+    font-size: 15px;
+}
+.titulo{
+    padding-top: 25px;
+    padding-bottom: 10px;
+    font-size: 30px;
+}
+.ultimo-texto{
+    display: inline;
+}
