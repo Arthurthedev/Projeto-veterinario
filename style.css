@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "indeed";
+    src: url('./src/fonts/IndeedSans-Light.ttf');   
+}
+
+
+
+
+@media (max-width: 412px) {
+    html{
+        background-image: url('./src/image/fundo.png');
+        font-family: 'indeed', ari;
+        text-align: center;
+
+
+        
+    }
+    .titulo{
+        padding-top: 180px;
+        padding-bottom: 80px;
+    }
+    .patinha{
+        color: brown;
+    }
+    .pinguim, .titulo-pinguim{
+        display: inline-block;
+    }
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
