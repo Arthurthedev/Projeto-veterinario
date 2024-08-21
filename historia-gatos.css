@@ -2,10 +2,11 @@ html{
     background: url('./src/image/fundo-felino.jpeg');
 }
 .titulo-gatos{
-    padding-top: 30px;
+    padding-top: 20px;
         font-size: 30px;
 }
 .paragrafo-gatos{
     text-align: justify;
     padding: 10px 20px 5px 20px;
+    font-weight: bold;
 }
