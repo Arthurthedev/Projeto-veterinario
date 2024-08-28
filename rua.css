@@ -6,7 +6,7 @@ html{
     padding-bottom: 10px;
     padding-top: 28px;
 }
-.paragrafo-rua{
+.paragrafo-rua > p{
     text-align: justify;
     padding: 10px 15px 10px 15px;
 }

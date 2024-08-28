@@ -5,7 +5,7 @@ html{
     padding-top: 20px;
         font-size: 30px;
 }
-.paragrafo-gatos{
+.paragrafo-gatos > p{
     text-align: justify;
     padding: 10px 20px 5px 20px;
     font-weight: bold;
